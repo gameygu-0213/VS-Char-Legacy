@@ -2,8 +2,8 @@
 <TextureAtlas imagePath="NOTE_assets.png">
 	<!-- Created with Adobe Animate version 23.0.0.407 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="arrowDOWN0000" x="0" y="0" width="148" height="154"/>
-	<SubTexture name="arrowLEFT0000" x="148" y="0" width="154" height="148"/>
+	<SubTexture name="arrowLEFT0000" x="0" y="0" width="148" height="154"/>
+	<SubTexture name="arrowDOWN0000" x="148" y="0" width="154" height="148"/>
 	<SubTexture name="arrowRIGHT0000" x="302" y="0" width="148" height="154"/>
 	<SubTexture name="arrowUP0000" x="450" y="0" width="154" height="148"/>
 	<SubTexture name="blue hold end0000" x="604" y="0" width="51" height="64"/>
