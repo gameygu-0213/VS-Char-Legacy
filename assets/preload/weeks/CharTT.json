@@ -19,14 +19,14 @@
 		"",
 		"bf"
 	],
-	"storyName": "Something's up with char.'",
+	"storyName": "Something's up with char.",
 	"weekName": "CharTT",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekBefore": "tutorial",
 	"startUnlocked": true
 }

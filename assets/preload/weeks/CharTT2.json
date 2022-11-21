@@ -1,5 +1,26 @@
 {
+	"storyName": "Something's up with char.",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
+		[
+			"too-slow",
+			"charangy",
+			[
+				146,
+				113,
+				253
+			]
+		],
 		[
 			"triple-trouble",
 			"plexitt",
@@ -8,25 +29,22 @@
 				113,
 				253
 			]
+		],
+		[
+			"you-cant-run",
+			"majinvschar",
+			[
+				146,
+				113,
+				253
+			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "",
-	"difficulties": "hard",
 	"weekCharacters": [
-		"",
-		"",
-		"bf"
+		"char",
+		"trevortt",
+		"plexitt"
 	],
-	"storyName": "Something's up with char.'",
-	"weekName": "CharTT",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"hiddenUntilUnlocked": false,
+	"weekName": "CharTT"
 }
