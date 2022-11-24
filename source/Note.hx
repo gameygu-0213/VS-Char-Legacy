@@ -67,7 +67,7 @@ class Note extends FlxSprite
 	public static var RED_NOTE:Int = 3;
 
 	// Lua shit
-	public var noteSplashDisabled:Bool = true;
+	public var noteSplashDisabled:Bool = false;
 	public var noteSplashTexture:String = null;
 	public var noteSplashHue:Float = 0;
 	public var noteSplashSat:Float = 0;
@@ -137,6 +137,7 @@ class Note extends FlxSprite
 				case 'Hurt Note':
 					ignoreNote = mustPress;
 					reloadNote('HURT');
+					noteSplashTexture = 'HURTnoteSplashes';
 					colorSwap.hue = 0;
 					colorSwap.saturation = 0;
 					colorSwap.brightness = 0;
@@ -155,10 +156,6 @@ class Note extends FlxSprite
 					noMissAnimation = true;
 				case 'GF Sing':
 					gfNote = true;
-				case 'BOMB Note':
-					missHealth = 10;
-					reloadNote(BOMB);
-					
 			}
 			noteType = value;
 		}
@@ -319,10 +316,10 @@ class Note extends FlxSprite
 			if(skin == null || skin.length < 1) {
 				skin = 'NOTE_assets';
 				if (prefix == '') {
-					if(ClientPrefs.noteSkinSettings == 'Updated') {
+					if(ClientPrefs.noteSkinSettings == 'Clasic') {
 						skin = 'NOTE_assets';
 					} else if (ClientPrefs.noteSkinSettings == 'Old') {
-						skin = 'NOTE_assets_old
+						skin = 'NOTE_assets_old';
 					} else {
 						skin = 'NOTE_assets';// for preventing crashes
 					}
