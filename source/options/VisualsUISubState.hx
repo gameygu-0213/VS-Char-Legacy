@@ -174,15 +174,15 @@ class VisualsUISubState extends BaseOptionsMenu
 		*/
 
 		var option:Option = new Option('Note Skin',
-			"What note skin do you prefer for playing? note: i dont know how to remove options so this is very redundant",
+			"What note skin do you prefer for playing? do you prefer the shitty made in 5 minutes skin or the one with actual effort lol",
 			'noteSkinSettings',
 			'string',
 			'Classic',
-			['Classic']);
+			['Classic', 'Old']);
 		addOption(option);
 		
 		var option:Option = new Option('Pause Screen Song:',
-			"What song do you prefer for the Pause Screen? note: do not use char theme it is unimplementd.",
+			"What song do you prefer for the Pause Screen? note: do not use char theme it is unimplemented.",
 			'pauseMusic',
 			'string',
 			'Breakfast',
