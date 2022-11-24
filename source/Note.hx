@@ -155,9 +155,9 @@ class Note extends FlxSprite
 					noMissAnimation = true;
 				case 'GF Sing':
 					gfNote = true;
-				case 'BOMB Note'
-					missHealth = 10
-					reloadNote(BOMB)
+				case 'BOMB Note':
+					missHealth = 10;
+					reloadNote(BOMB);
 					
 			}
 			noteType = value;
