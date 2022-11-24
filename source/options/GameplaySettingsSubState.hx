@@ -78,10 +78,10 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 		addOption(option);
 
 		var option:Option = new Option('Remove Perfect! Note Judgement',
-			'If checked, removes Perfect! judgement',
+			'do not uncheck this unless you REALLY need to know when you hit it perfectly',
 			'removePerfects',
 			'bool',
-			false);
+			true);
 		addOption(option);
 
 		/*
@@ -104,7 +104,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			'Funny notes does \"Tick!\" when you hit them."',
 			'hitsoundVolume',
 			'percent',
-			0);
+			50);
 		addOption(option);
 		option.scrollSpeed = 1.6;
 		option.minValue = 0.0;

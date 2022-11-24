@@ -80,11 +80,11 @@ class VisualsUISubState extends BaseOptionsMenu
 		addOption(option);
 
 		var option:Option = new Option('Icon Bop',
-			'Classic is Vanilla FnF icons bops, OS is OS Engine icons bops',
+			'this option does nothing and is redundant',
 			'iconbops',
 			'string',
 			'OS',
-			['OS', 'Classic']);
+			['OS']);
 		addOption(option);
 
 		var option:Option = new Option('Score Text Position',
