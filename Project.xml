@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin': OS Engine: School Showdown!" file="SchoolShowdown" packageName="com.char.charengine" package="com.char.charengine" main="Main" version="0.2.8" company="char" />
+	<app title="Friday Night Funkin': OS Engine: School Showdown!" file="SchoolShowdown" packageName="com.char.charengine" package="com.char.charengine" main="Main" version="OS Engine 0.2.8 Char Engine 0.3.5" company="char" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
