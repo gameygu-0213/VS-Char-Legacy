@@ -15,6 +15,23 @@ Hey welcome to my mod this is a little project im cookin up to get better at pro
 
 [IMAGE NOT MADE YET] Ourple Char/Minus Char - name and picture says it all.
 
+[IMAGE NOT MADE YET] Char Clone - a clone made by Micheal with the sole purpose of defeating Char
+
+[IMAGE NOT MADE YET] Plexi Clone - Kinda crazy but overall not too bad a clone although he seems tp be a mix of old and new designs.
+
+[IMAGE NOT MADE YET] Trevor Clone - The best Clone Micheal made as minus some physical defects, surprisingly has the most sound and similar mind.
+
+[IMAGE NOT MADE YET] Char Remix - compared to the main Char, Remix Char is laid back and only rap battles people who go to him directly. still thinks he can win no matter what. also owns a weapons brand named "Char Weapons Co."
+
+[IMAGE NOT MADE YET] Trevor and Plexi Remix Clones - this pair of clones was so perfect (minus the size difference) they went rogue from micheal and after this he wouldnt try to clone Char remix. they never go anywhere without each other.
+
+[IMAGE NOT MADE YET] Trevor Remix - doesnt know Char in this universe and is very violent as well as part of a gang, literally no one knows why other then him saying "just cause i can" also owns several of "Char Weapons Co." branded guns.
+
+[IMAGE NOT MADE YET] Plexi Remix - owns a successful record distribution company "Plexi Records Inc." and works with Char in this universe to produce his music although he doesnt know Char on a personal level.
+
+[IMAGE NOT MADE YET] Micheal Remix - aside from being more crazy and unable to make portals, basically the same guy.
+
+
 
 
 
