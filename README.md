@@ -3,7 +3,7 @@
 
 Hey welcome to my mod this is a little project im cookin up to get better at programming, spriting, and music production (Progress currently halted while i find a new computer)![](https://media.discordapp.net/attachments/1019679413006258257/1128022646693564506/Untitled71_20230710131104.png) This is Char, an Over confident DUMBASS who will walk up to people challenging them to a rap battle.
 
-[IMAGE NOT MADE YET] Trevor the Tridite (Good friend of Char) - after several days of dealing with Char's bullshit he kinda lost some of his kindness, but still tries to think of others.
+![](https://cdn.discordapp.com/attachments/1019679413006258257/1128066088861712444/Untitled71_20230710165012.png) Trevor the Tridite (Good friend of Char) - after several days of dealing with Char's bullshit he kinda lost some of his kindness, but still tries to think of others.
 
 [IMAGE NOT MADE YET] Plexi (good friend of Char) - this toaster thinks the only reason he still friends with Char is to keep him in check. Kind and will stand up to anyone who tries to mess with his Friends.
 
