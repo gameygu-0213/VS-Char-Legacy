@@ -5,9 +5,9 @@ Hey welcome to my mod this is a little project im cookin up to get better at pro
 
 ![](https://cdn.discordapp.com/attachments/1019679413006258257/1128066088861712444/Untitled71_20230710165012.png) Trevor the Tridite (Good friend of Char) - after several days of dealing with Char's bullshit he kinda lost some of his kindness, but still tries to think of others.
 
-[IMAGE NOT MADE YET] Plexi (good friend of Char) - this toaster thinks the only reason he still friends with Char is to keep him in check. Kind and will stand up to anyone who tries to mess with his Friends.
+![](https://cdn.discordapp.com/attachments/1019679413006258257/1128487580082634792/Github_Renders_20230711164544.png) Plexi (good friend of Char) - this toaster thinks the only reason he still friends with Char is to keep him in check. Kind and will stand up to anyone who tries to mess with his Friends.
 
-[IMAGE NOT MADE YET] Micheal the shapeshifter (enemies with char) - thinks hes the best prankster. No one knows his true form except for Char.
+![](https://cdn.discordapp.com/attachments/1019679413006258257/1128487579638054992/Github_Renders_20230711204455.png) Micheal the shapeshifter (enemies with char) - thinks hes the best prankster. No one knows his true form except for Char.
 
 [IMAGE NOT MADE YET] Micheal's True Form - ???
 
