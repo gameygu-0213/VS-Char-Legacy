@@ -13,7 +13,7 @@ Hey welcome to my mod this is a little project im cookin up to get better at pro
 
 [IMAGE NOT MADE YET] Char Mongus and Trevor Mongus - SUS?!
 
-[IMAGE NOT MADE YET] Ourple Char/Minus Char - name and picture says it all.
+![](https://cdn.discordapp.com/attachments/1019679413006258257/1129090307800186880/Github_Renders_20230713124030.png) Ourple Char/Minus Char - name and picture says it all.
 
 [IMAGE NOT MADE YET] Char Clone - a clone made by Micheal with the sole purpose of defeating Char
 
