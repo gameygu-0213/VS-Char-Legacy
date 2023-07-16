@@ -21,7 +21,7 @@ Hey welcome to my mod this is a little project im cookin up to get better at pro
 
 [IMAGE NOT MADE YET] Trevor Clone - The best Clone Micheal made as minus some physical defects, surprisingly has the most sound and similar mind.
 
-[IMAGE NOT MADE YET] Char Remix - compared to the main Char, Remix Char is laid back and only rap battles people who go to him directly. still thinks he can win no matter what. also owns a weapons brand named "Char Weapons Co."
+![](https://cdn.discordapp.com/attachments/1052563456185864192/1130261904238071869/Github_Renders_20230716181446.png) Char Remix - compared to the main Char, Remix Char is laid back and only rap battles people who go to him directly. still thinks he can win no matter what. also owns a weapons brand named "Char Weapons Co."
 
 [IMAGE NOT MADE YET] Trevor and Plexi Remix Clones - this pair of clones was so perfect (minus the size difference) they went rogue from micheal and after this he wouldnt try to clone Char remix. they never go anywhere without each other.
 
