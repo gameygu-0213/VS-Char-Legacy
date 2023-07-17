@@ -10,7 +10,7 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": True,
+	"hiddenUntilUnlocked": true,
 	"hideFreeplay": false,
 	"weekBackground": "",
 	"difficulties": "hard",
