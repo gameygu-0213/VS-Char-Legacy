@@ -9,9 +9,7 @@ Hey welcome to my mod this is a little project im cookin up to get better at pro
 
 ![](https://cdn.discordapp.com/attachments/1019679413006258257/1128487579638054992/Github_Renders_20230711204455.png) Micheal the shapeshifter (enemies with char) - thinks hes the best prankster. No one knows his true form except for Char.
 
-[IMAGE NOT MADE YET] Micheal's True Form - ???
-
-[IMAGE NOT MADE YET] Char Mongus and Trevor Mongus - SUS?!
+[IMAGE NOT FOUND] Micheal's True Form - ???
 
 ![](https://cdn.discordapp.com/attachments/1019679413006258257/1129090307800186880/Github_Renders_20230713124030.png) Ourple Char/Minus Char - name and picture says it all.
 
@@ -30,12 +28,3 @@ Hey welcome to my mod this is a little project im cookin up to get better at pro
 [IMAGE NOT MADE YET] Plexi Remix - owns a successful record distribution company "Plexi Records Inc." and works with Char in this universe to produce his music although he doesnt know Char on a personal level.
 
 [IMAGE NOT MADE YET] Micheal Remix - aside from being more crazy and unable to make portals, basically the same guy.
-
-
-
-
-
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
