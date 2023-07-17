@@ -10,7 +10,7 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
+	"hiddenUntilUnlocked": True,
 	"hideFreeplay": false,
 	"weekBackground": "",
 	"difficulties": "hard",
@@ -20,13 +20,13 @@
 		"bf"
 	],
 	"storyName": "Something's up with char.",
-	"weekName": "CharTT",
+	"weekName": "CharTTOG",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
 	"hideStoryMode": true,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekBefore": "weekexe",
+	"startUnlocked": false
 }
