@@ -19,15 +19,6 @@
 			]
 		],
 		[
-			"endless",
-			"plexitt",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
 			"recolors",
 			"charogjoke",
 			[
@@ -46,7 +37,7 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
+	"hiddenUntilUnlocked": true,
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"difficulties": "hard",
@@ -63,6 +54,6 @@
 		253
 	],
 	"hideStoryMode": true,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekBefore": "CharTT2",
+	"startUnlocked": false
 }
