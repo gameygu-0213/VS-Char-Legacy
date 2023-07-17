@@ -13,15 +13,6 @@
 	"hideStoryMode": false,
 	"songs": [
 		[
-			"too-slow",
-			"charangy",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
 			"triple-trouble",
 			"plexitt",
 			[
@@ -46,5 +37,5 @@
 		"plexitt"
 	],
 	"hiddenUntilUnlocked": false,
-	"weekName": "CharTT"
+	"weekName": "WeekEXE"
 }
