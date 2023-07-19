@@ -27,6 +27,6 @@ Hey welcome to my mod this is a little project im cookin up to get better at pro
 
 [IMAGE NOT MADE YET] Trevor Remix - doesnt know Char in this universe and is very violent as well as part of a gang, literally no one knows why other then him saying "just cause i can" also owns several of "Char Weapons Co." branded guns.
 
-[IMAGE NOT MADE YET] Plexi Remix - owns a successful record distribution company "Plexi Records Inc." and works with Char in this universe to produce his music although he doesnt know Char on a personal level.
+![](https://cdn.discordapp.com/attachments/1019679413006258257/1131312143506092143/Github_Renders_20230719154838.png) Plexi Remix - owns a successful record distribution company "Plexi Records Inc." and works with Char in this universe to produce his music although he doesnt know Char on a personal level.
 
 [IMAGE NOT MADE YET] Micheal Remix - aside from being more crazy and unable to make portals, basically the same guy.
