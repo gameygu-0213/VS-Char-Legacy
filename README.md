@@ -1,4 +1,15 @@
-﻿![](https://cdn.discordapp.com/attachments/1019679413006258257/1128022646366416957/Untitled74_20230710133245.png)
+# HEY YOU THIS VERSION OF THE CHAR ENGINE BASED ON OS ENGINE IS DEPRECATED CAUSE I CANNOT COMPILE NO MORE GO HERE FOR THE UPDATED ONE BASED ON THE LATEST VERSION OF PSYCH ENGINE [Link here when im done makinng the icon code work with winning icons]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ![](https://cdn.discordapp.com/attachments/1019679413006258257/1128022646366416957/Untitled74_20230710133245.png)
 # Char-Engine
 
 Hey welcome to my mod this is a little project im cookin up to get better at programming, spriting, and music production
