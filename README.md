@@ -1,5 +1,7 @@
-# HEY YOU THIS VERSION OF THE CHAR ENGINE BASED ON OS ENGINE IS DEPRECATED CAUSE I CANNOT COMPILE NO MORE GO HERE FOR THE UPDATED ONE BASED ON THE LATEST VERSION OF PSYCH ENGINE [Link here when im done makinng the icon code work with winning icons]
- 
+# HEY YOU THIS VERSION OF THE CHAR ENGINE BASED ON OS ENGINE IS DEPRECATED CAUSE I CANNOT COMPILE NO MORE GO HERE FOR THE UPDATED ONE BASED ON THE LATEST VERSION OF PSYCH ENGINE
+https://github.com/gameygu-0213/Char-Engine-New < More frequent usually barely tested updates
+https://github.com/gameygu-0213/Char-Engine-stable < Les frequent, more properly tested updates
+ (This Repo will remain unarchived untill i have drawn and inserted every picture in this readme file)
  
  
  
