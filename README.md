@@ -1,6 +1,6 @@
 # HEY YOU THIS VERSION OF THE CHAR ENGINE BASED ON OS ENGINE IS DEPRECATED CAUSE I CANNOT COMPILE NO MORE GO HERE FOR THE UPDATED ONE BASED ON THE LATEST VERSION OF PSYCH ENGINE
 https://github.com/gameygu-0213/Char-Engine-New < More frequent usually barely tested updates
-https://github.com/gameygu-0213/Char-Engine-stable < Les frequent, more properly tested updates
+https://github.com/gameygu-0213/Char-Engine-stable < Less frequent, more properly tested updates
  (This Repo will remain unarchived untill i have drawn and inserted every picture in this readme file)
  
  
@@ -36,10 +36,10 @@ Hey welcome to my mod this is a little project im cookin up to get better at pro
 
 ![](https://cdn.discordapp.com/attachments/1052563456185864192/1130261904238071869/Github_Renders_20230716181446.png) Char Remix - compared to the main Char, Remix Char is laid back and only rap battles people who go to him directly. still thinks he can win no matter what. also owns a weapons brand named "Char Weapons Co."
 
-[IMAGE NOT MADE YET] Trevor and Plexi Remix Clones - this pair of clones was so perfect (minus the size difference) they went rogue from micheal and after this he wouldnt try to clone Char remix. they never go anywhere without each other.
+![](https://media.discordapp.net/attachments/467567599232745492/1153013669370802316/Untitled87_20230917130244.png?width=338&height=488) Trevor and Plexi Remix Clones - this pair of clones was so perfect (minus the size difference) they went rogue from micheal and after this he wouldnt try to clone Char remix. they never go anywhere without each other.
 
 [IMAGE NOT MADE YET] Trevor Remix - doesnt know Char in this universe and is very violent as well as part of a gang, literally no one knows why other then him saying "just cause i can" also owns several of "Char Weapons Co." branded guns.
 
 ![](https://cdn.discordapp.com/attachments/1019679413006258257/1131312143506092143/Github_Renders_20230719154838.png) Plexi Remix - owns a successful record distribution company "Plexi Records Inc." and works with Char in this universe to produce his music although he doesnt know Char on a personal level.
 
-[IMAGE NOT MADE YET] Micheal Remix - aside from being more crazy and unable to make portals, basically the same guy.
+![](https://media.discordapp.net/attachments/1052563456185864192/1149730262834487429/micheal_remix.png?width=351&height=489) Micheal Remix - aside from being more crazy and unable to make portals, basically the same guy.
