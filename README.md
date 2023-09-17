@@ -1,4 +1,4 @@
-# HEY YOU THIS VERSION OF THE CHAR ENGINE BASED ON OS ENGINE IS DEPRECATED CAUSE I CANNOT COMPILE NO MORE GO HERE FOR THE UPDATED ONE BASED ON THE LATEST VERSION OF PSYCH ENGINE
+# HEY YOU THIS VERSION OF THE CHAR ENGINE BASED ON OS ENGINE IS DEPRECATED CAUSE I CANNOT COMPILE NO MORE GO HERE FOR THE UPDATED ONE BASED ON THE LATEST VERSION OF PSYCH  ENGINE (0.7.1h)
 https://github.com/gameygu-0213/Char-Engine-New < More frequent usually barely tested updates
 https://github.com/gameygu-0213/Char-Engine-stable < Less frequent, more properly tested updates
  (This Repo will remain unarchived untill i have drawn and inserted every picture in this readme file)
