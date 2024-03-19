@@ -49,6 +49,7 @@ class ClientPrefs {
 	public static var removePerfects:Bool = false;
 	public static var characterTrail:Bool = false;
 	public static var checkForUpdates:Bool = true;
+	public static var ShowLegacyBuildWarning:Bool = true;
 	public static var gameplaySettings:Map<String, Dynamic> = [
 		'scrollspeed' => 1.0,
 		'scrolltype' => 'multiplicative', 

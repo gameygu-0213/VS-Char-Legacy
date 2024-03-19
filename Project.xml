@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin': OS Engine: School Showdown!" file="SchoolShowdown" packageName="com.char.charengine" package="com.char.charengine" main="Main" version="OS Engine 0.2.8 Char Engine 0.3.5" company="char" />
+	<app title="Friday Night Funkin': OS Engine: VS Char Legacy v0.3.5" file="VSCharLegacy" packageName="com.char.charenginelegacy" package="com.chargolden.charenginelegacy" main="Main" version="0.2.8" company="CharGolden" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
@@ -138,10 +138,13 @@
 	<haxelib name="faxe" if='switch'/>
 	<!--<haxelib name="polymod"/> -->
 	<haxelib name="discord_rpc" if="desktop"/>
-	<!-- <haxelib name="hxcpp-debug-server" if="desktop"/> -->
 
 	<!-- <haxelib name="markdown" /> -->
 	<!-- <haxelib name="HtmlParser" /> -->
+
+	<!-- Enables a terminal log prompt on debug builds (Ported from 0.7.1h, lets see if it breaks shit shall we)-->
+	<haxelib name="hxcpp-debug-server" if="debug"/>
+	<haxedef name="HXC_LIBVLC_LOGGING" if="VIDEOS_ALLOWED debug" />
 
 	<!--In case you want to use nape with flixel-->
 	<!--<haxelib name="nape-haxe4" />-->

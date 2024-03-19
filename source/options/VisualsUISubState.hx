@@ -162,6 +162,13 @@ class VisualsUISubState extends BaseOptionsMenu
 			false);
 		option.defaultValue = false;
 		addOption(option);
+		
+		var option:Option = new Option('Show Legacy Warning',
+		'Check this if you wanna see the legacy build warning every time.',
+		'ShowLegacyBuildWarning',
+		'bool',
+		true);
+		addOption(option);
 
 		/*
 		var option:Option = new Option('Auto Title Skip',
@@ -192,7 +199,7 @@ class VisualsUISubState extends BaseOptionsMenu
 		
 		#if CHECK_FOR_UPDATES
 		var option:Option = new Option('Check for Updates',
-			'On Release builds, turn this on to check for updates when you start the game.',
+			'On Release builds, turn this on to check for updates when you start the game.(this is useless lol)',
 			'checkForUpdates',
 			'bool',
 			true);

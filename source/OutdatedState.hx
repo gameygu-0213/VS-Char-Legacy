@@ -1,4 +1,3 @@
-/*
 
 package;
 
@@ -22,16 +21,17 @@ class OutdatedState extends MusicBeatState
 	{
 		super.create();
 
-		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
+		var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('menuError'));
 		add(bg);
 
 		warnText = new FlxText(0, 0, FlxG.width,
-			"Sup bro, looks like you're running an   \n
-			outdated version of Psych Engine (" + MainMenuState.psychEngineVersion + "),\n
-			please update to " + TitleState.updateVersion + "!\n
-			Press ESCAPE to proceed anyway.\n
+			"Hey there, this build is a
 			\n
-			Thank you for using the Engine!",
+			\n
+			LEGACY BUILD
+			\n
+			and no longer being updated (At least beyond making it compilable, and adding this warning lol), \n press enter now to see the new versions or esc to skip.
+			\n - Anny (Char)",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
@@ -43,7 +43,9 @@ class OutdatedState extends MusicBeatState
 		if(!leftState) {
 			if (controls.ACCEPT) {
 				leftState = true;
-				CoolUtil.browserLoad("https://github.com/ShadowMario/FNF-PsychEngine/releases");
+				ClientPrefs.ShowLegacyBuildWarning = false;
+				ClientPrefs.saveSettings();
+				CoolUtil.browserLoad("https://github.com/gameygu-0213/VS-Char-Revitilized-Source/releases");
 			}
 			else if(controls.BACK) {
 				leftState = true;
@@ -62,4 +64,3 @@ class OutdatedState extends MusicBeatState
 		super.update(elapsed);
 	}
 }
-*/

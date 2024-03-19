@@ -86,6 +86,8 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Char Engine / VS Char'],
+			['Char',		'char', 	'Coder, Main artist, and Animator for VS Char',		'https://www.youtube.com/channel/UC930b1Q9I8Ufdv-8uKX1mtw/',			'E1843A']
 			['OS Engine Team'],
 			['notweuz_', 'weuz', 'Main Programmer of OS Engine', 'https://twitter.com/notweuz_', '8633F2'],
 			['nelifs', 'nelifs', 'Second Programmer and Designer of OS Engine', 'https://github.com/nelifs', '1C1C1C'],

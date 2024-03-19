@@ -137,7 +137,7 @@ class TitleState extends MusicBeatState
 		#if CHECK_FOR_UPDATES
 		if(ClientPrefs.checkForUpdates && !closedState) {
 			trace('checking for update');
-			var http = new haxe.Http("https://raw.githubusercontent.com/ShadowMario/FNF-PsychEngine/main/gitVersion.txt");
+			var http = new haxe.Http("https://github.com/gameygu-0213/VS-Char-Revitilized-Source/main/gitVersion.txt");
 
 			http.onData = function (data:String)
 			{
@@ -326,7 +326,7 @@ class TitleState extends MusicBeatState
 		}
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;
 
-		titlestatebg = new FlxBackdrop(Paths.image('loading'), 0.2, 0, true, true);
+		titlestatebg = new FlxBackdrop(Paths.image('loading'),XY);
 		titlestatebg.velocity.set(200, 110);
 		titlestatebg.updateHitbox();
 		titlestatebg.alpha = 0.5;
@@ -510,8 +510,12 @@ class TitleState extends MusicBeatState
 
 				new FlxTimer().start(1, function(tmr:FlxTimer)
 				{
-					MusicBeatState.switchState(new MainMenuState());
-					closedState = true;
+					if (ClientPrefs.ShowLegacyBuildWarning) {
+					MusicBeatState.switchState(new OutdatedState());
+					closedState = true;}
+					else if (!ClientPrefs.ShowLegacyBuildWarning) {
+						MusicBeatState.switchState(new MainMenuState());
+						closedState = true;}
 				});
 				// FlxG.sound.play(Paths.music('titleShoot'), 0.7);
 			}

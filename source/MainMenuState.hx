@@ -31,6 +31,7 @@ using StringTools;
 class MainMenuState extends MusicBeatState
 {
 	public static var osEngineVersion:String = '1.5.1'; //This is also used for Discord RPC
+	public static var CharEngineVersion:String = '0.3.5 Legacy Release'; // just here to specify the char engine version unlike revitilized's value thats also for the update checker
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
@@ -167,7 +168,11 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
-		var versionShit:FlxText = new FlxText(FlxG.width * 0.7, FlxG.height - 44, 0, "OS Engine v" + osEngineVersion + " - Modded Psych Engine", 12);
+		var versionShit:FlxText = new FlxText(FlxG.width * 0.7, FlxG.height - 64, 0, "OS Engine v" + osEngineVersion + " - Modded Psych Engine", 12);
+		versionShit.scrollFactor.set();
+		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		add(versionShit);
+		var versionShit:FlxText = new FlxText(FlxG.width * 0.7, FlxG.height - 44, 0, "Char Engine v" + CharEngineVersion, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
